@@ -1,0 +1,72 @@
+/home/ciclosm/RiderProjects/Libreria/CartasLib/bin/Debug/net7.0/CartasLib.deps.json
+/home/ciclosm/RiderProjects/Libreria/CartasLib/bin/Debug/net7.0/CartasLib.dll
+/home/ciclosm/RiderProjects/Libreria/CartasLib/bin/Debug/net7.0/CartasLib.pdb
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.csproj.AssemblyReference.cache
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfoInputs.cache
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfo.cs
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.csproj.CoreCompileInputs.cache
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.dll
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/refint/CartasLib.dll
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/CartasLib.pdb
+/home/ciclosm/RiderProjects/Libreria/CartasLib/obj/Debug/net7.0/ref/CartasLib.dll
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.deps.json
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.dll
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.pdb
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.AssemblyReference.cache
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfoInputs.cache
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfo.cs
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.CoreCompileInputs.cache
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.dll
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/refint/CartasLib.dll
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.pdb
+/home/ciclosm/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/ref/CartasLib.dll
+/home/logan/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.deps.json
+/home/logan/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.dll
+/home/logan/RiderProjects/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.pdb
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.AssemblyReference.cache
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfoInputs.cache
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfo.cs
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.CoreCompileInputs.cache
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.dll
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/refint/CartasLib.dll
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.pdb
+/home/logan/RiderProjects/proyectoDINT/CartasLib/obj/Debug/net7.0/ref/CartasLib.dll
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.deps.json
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.dll
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.pdb
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.AssemblyReference.cache
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfoInputs.cache
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfo.cs
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.CoreCompileInputs.cache
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.dll
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/refint/CartasLib.dll
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.pdb
+/media/logan/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/ref/CartasLib.dll
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.deps.json
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.dll
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/bin/Debug/net7.0/CartasLib.pdb
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.AssemblyReference.cache
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfoInputs.cache
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.AssemblyInfo.cs
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.csproj.CoreCompileInputs.cache
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.dll
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/refint/CartasLib.dll
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/CartasLib.pdb
+/media/ciclosm/Rocketek/2ºDAM/Desarrollo de interfaces/ut2/ejercicios/proyectoDINT/CartasLib/obj/Debug/net7.0/ref/CartasLib.dll
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\bin\Debug\net7.0\CartasLib.deps.json
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\bin\Debug\net7.0\CartasLib.dll
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\bin\Debug\net7.0\CartasLib.pdb
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.csproj.AssemblyReference.cache
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.AssemblyInfoInputs.cache
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.AssemblyInfo.cs
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.csproj.CoreCompileInputs.cache
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.dll
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\refint\CartasLib.dll
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\CartasLib.pdb
+E:\Insti\2_DAM\DINT\UT2\JuegosCartas\CartasLib\obj\Debug\net7.0\ref\CartasLib.dll

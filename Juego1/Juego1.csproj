@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>JuegosCartas</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="CartasLib">
+        <HintPath>..\..\..\..\..\..\..\..\..\home\ciclosm\RiderProjects\proyectoDINT\CartasLib\bin\Debug\net7.0\CartasLib.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
