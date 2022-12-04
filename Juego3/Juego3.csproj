@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <Reference Include="CartasLib">
-        <HintPath>..\..\..\..\..\..\..\..\..\home\ciclosm\RiderProjects\proyectoDINT\CartasLib\bin\Debug\net7.0\CartasLib.dll</HintPath>
+        <HintPath>..\..\proyectoDINT\CartasLib\bin\Debug\net7.0\CartasLib.dll</HintPath>
       </Reference>
     </ItemGroup>
 

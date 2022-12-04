@@ -2,25 +2,14 @@ using System;
 using CartasLib;
 
 public class Juego1 {
+	static void Main(string[] args) {
+		Baraja baraja = new Baraja();
 
-    static void Main(string[] args) {
-        Baraja baraja = new Baraja();
-        
-        baraja.Barajar();
+		baraja.Barajar();
 
-        Carta carta;
+		Carta carta;
 
-        while ((carta = baraja.Robar()) != null) 
-            Console.WriteLine(carta);
-        
-        /*Carta[] array = new Carta[52];
-
-        while (baraja.CartasRestantes > 0) {
-
-            for (int i = 0; i < array.Length; i++)
-                array[i] = baraja.Robar();
-            
-            Baraja.DibujaCartas(array, 0);
-        }*/
-    }
+		while ((carta = baraja.Robar()) != null)
+			Console.WriteLine(carta);
+	}
 }
